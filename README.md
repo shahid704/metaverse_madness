@@ -3,6 +3,8 @@
 **Metaverse Madness**
 Metaverse Madness is a dynamic and immersive website built using Next.js, Framer Motion, and Tailwind CSS, designed to provide users with an engaging and modern browsing experience.
 
+### [Live Site](https://metaverse-madness-flame.vercel.app/)
+
 ![main](https://github.com/shahid704/metaverse_madness/assets/68416468/95b047bc-c733-4510-9905-a63e1ced3a2d)
 
 <strong>Stacks &#38; Tools</strong>
